@@ -11,7 +11,7 @@ intearct with linux system, to manage them and also to get some output/informait
 
 *The Main purpose of using python is that linux wont support windows systems.So in that case python would be used.
 Python can be used in both linux and windows whereas shell is only used for linux system.The foundation of 
-Ansible is also python. *  
+Ansible is also python.*  
 
 ## When Python would be used?
 *Python is designed to perform complex tasks, to talk to the API's,and also to do data manipulation tasks.
