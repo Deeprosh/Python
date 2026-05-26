@@ -7,7 +7,8 @@
 4.Execution  of the program
 
 ### `Part-2`  
-1.Jira setup  
-2.Jira API calls  
-3.Python Script  
-4.Execution  
+1.API call  
+2.Convert python script to API
+3.Deploy Python application to server  
+4.Github webhook
+5.Conditional Handling
