@@ -6,9 +6,9 @@
 3.Write the Python Script  
 4.Execution  of the program
 
-### `Part-2`  
-1.API call  
-2.Convert python script to API
-3.Deploy Python application to server  
-4.Github webhook
-5.Conditional Handling
+### `Part-2`    
+1.API call using Flask framework  
+2.Convert python script to API  
+3.Deploy Python application to server    
+4.Github webhook  
+5.Conditional Handling  
